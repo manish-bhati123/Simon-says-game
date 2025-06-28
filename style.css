@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+.btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: 8px solid black;
+    margin: 1.5rem;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: rgb(22, 215, 93);
+
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.flase{
+    background-color: white;
+}
+.flaseuser{
+    background-color: green;
+}
